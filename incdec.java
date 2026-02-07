@@ -6,7 +6,7 @@ public class incdec
     System.out.println(a++);
     System.out.println(a--);
     System.out.println(--a);
-    System.out.println(++a-);
+    System.out.println(++a);
 
 }
 }
